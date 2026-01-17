@@ -1,4 +1,4 @@
-# Chunking Strategies for Retrieval-Augmented Generation (RAG)
+# Chunking Strategies for Retrieval-Augmented Generation
 
 ![Chunky](chunky.jpg)
 
