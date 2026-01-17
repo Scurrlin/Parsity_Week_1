@@ -149,7 +149,7 @@ function getLastWords(text: string, maxLength: number): string {
  * Iterates backwards through the text and finds as many complete words as possible
  * that will fit within the maxLength param. Words are added in reverse order from
  * the end to preserve natural overlapping. The loop stops as soon as adding
- * another word would exceed the maxLengthlimit.
+ * another word would exceed the maxLength limit.
  *
  * Runtime is O(n):
  * 
