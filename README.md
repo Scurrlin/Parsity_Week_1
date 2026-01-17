@@ -4,7 +4,7 @@
 
 ## What Is Chunking?
 
-Chunking is the process of breaking large bodies of text down into smaller sections called chunks. This makes it easier for an AI system to store, search, and retrieve information compared to feeding in an entire document all at once.
+Chunking is the process of breaking down large bodies of text into smaller sections called chunks. This makes it easier for an AI system to store, search, and retrieve information compared to feeding in an entire document all at once.
 
 ---
 
